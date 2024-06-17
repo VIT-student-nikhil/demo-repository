@@ -1,4 +1,4 @@
 # demo-repository
 This is my first git repository
 <br>
-Author-nikhil
+Author-nikhil(VIT-student)
